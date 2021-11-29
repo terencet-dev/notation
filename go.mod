@@ -8,7 +8,7 @@ require (
 	github.com/docker/libtrust v0.0.0-20160708172513-aabc10ec26b7
 	github.com/notaryproject/notation-go-lib v0.0.0-20210915023405-484c01cab2ee
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.1
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/oras-project/artifacts-spec v0.0.0-20210827194259-6e52c5a2ed3d
 	github.com/urfave/cli/v2 v2.3.0
 )
